@@ -1,0 +1,640 @@
+Date,Location,Mean_Wind_Speed
+1-Sep-17,Admiralty,8.3
+2-Sep-17,Admiralty,9
+3-Sep-17,Admiralty,11.2
+4-Sep-17,Admiralty,6.1
+5-Sep-17,Admiralty,7.6
+6-Sep-17,Admiralty,5.4
+7-Sep-17,Admiralty,5.8
+8-Sep-17,Admiralty,6.5
+9-Sep-17,Admiralty,4.3
+10-Sep-17,Admiralty,5.8
+11-Sep-17,Admiralty,6.1
+12-Sep-17,Admiralty,6.1
+13-Sep-17,Admiralty,6.8
+14-Sep-17,Admiralty,5
+15-Sep-17,Admiralty,5
+16-Sep-17,Admiralty,7.9
+17-Sep-17,Admiralty,7.9
+18-Sep-17,Admiralty,5.4
+19-Sep-17,Admiralty,5.8
+20-Sep-17,Admiralty,8.3
+21-Sep-17,Admiralty,6.1
+22-Sep-17,Admiralty,5.8
+23-Sep-17,Admiralty,5.8
+24-Sep-17,Admiralty,5.8
+25-Sep-17,Admiralty,6.5
+26-Sep-17,Admiralty,5.8
+27-Sep-17,Admiralty,6.1
+28-Sep-17,Admiralty,5
+29-Sep-17,Admiralty,6.5
+30-Sep-17,Admiralty,9
+1-Mar-18,Admiralty,11.5
+2-Mar-18,Admiralty,8.3
+3-Mar-18,Admiralty,9.7
+4-Mar-18,Admiralty,6.1
+5-Mar-18,Admiralty,13.7
+6-Mar-18,Admiralty,7.2
+7-Mar-18,Admiralty,8.6
+8-Mar-18,Admiralty,10.4
+9-Mar-18,Admiralty,16.2
+10-Mar-18,Admiralty,16.9
+11-Mar-18,Admiralty,15.5
+12-Mar-18,Admiralty,13.3
+13-Mar-18,Admiralty,12.2
+14-Mar-18,Admiralty,11.2
+15-Mar-18,Admiralty,9.7
+16-Mar-18,Admiralty,13
+17-Mar-18,Admiralty,12.2
+18-Mar-18,Admiralty,14
+19-Mar-18,Admiralty,11.5
+20-Mar-18,Admiralty,10.4
+21-Mar-18,Admiralty,8.3
+22-Mar-18,Admiralty,16.2
+23-Mar-18,Admiralty,15.1
+24-Mar-18,Admiralty,12.6
+25-Mar-18,Admiralty,8.3
+26-Mar-18,Admiralty,10.4
+27-Mar-18,Admiralty,10.8
+28-Mar-18,Admiralty,7.2
+29-Mar-18,Admiralty,6.8
+30-Mar-18,Admiralty,6.1
+31-Mar-18,Admiralty,8.3
+1-Jun-18,Admiralty,5.4
+2-Jun-18,Admiralty,5.8
+3-Jun-18,Admiralty,5.4
+4-Jun-18,Admiralty,5.4
+5-Jun-18,Admiralty,6.5
+6-Jun-18,Admiralty,6.1
+7-Jun-18,Admiralty,6.5
+8-Jun-18,Admiralty,7.6
+9-Jun-18,Admiralty,5.4
+10-Jun-18,Admiralty,6.5
+11-Jun-18,Admiralty,7.2
+12-Jun-18,Admiralty,6.1
+13-Jun-18,Admiralty,6.1
+14-Jun-18,Admiralty,4.7
+15-Jun-18,Admiralty,5.4
+16-Jun-18,Admiralty,6.1
+17-Jun-18,Admiralty,5.8
+18-Jun-18,Admiralty,5.4
+19-Jun-18,Admiralty,7.9
+20-Jun-18,Admiralty,5
+21-Jun-18,Admiralty,5.8
+22-Jun-18,Admiralty,5.4
+23-Jun-18,Admiralty,6.1
+24-Jun-18,Admiralty,7.9
+25-Jun-18,Admiralty,6.5
+26-Jun-18,Admiralty,3.2
+27-Jun-18,Admiralty,5.8
+28-Jun-18,Admiralty,5
+29-Jun-18,Admiralty,4.3
+30-Jun-18,Admiralty,5
+1-Sep-17,Changi,14.8
+2-Sep-17,Changi,14.4
+3-Sep-17,Changi,17.3
+4-Sep-17,Changi,7.9
+5-Sep-17,Changi,10.8
+6-Sep-17,Changi,6.8
+7-Sep-17,Changi,8.3
+8-Sep-17,Changi,10.8
+9-Sep-17,Changi,6.1
+10-Sep-17,Changi,5
+11-Sep-17,Changi,5.8
+12-Sep-17,Changi,9
+13-Sep-17,Changi,10.8
+14-Sep-17,Changi,7.9
+15-Sep-17,Changi,6.1
+16-Sep-17,Changi,7.9
+17-Sep-17,Changi,14
+18-Sep-17,Changi,7.6
+19-Sep-17,Changi,6.1
+20-Sep-17,Changi,7.2
+21-Sep-17,Changi,6.1
+22-Sep-17,Changi,9
+23-Sep-17,Changi,8.6
+24-Sep-17,Changi,7.2
+25-Sep-17,Changi,9
+26-Sep-17,Changi,7.9
+27-Sep-17,Changi,5
+28-Sep-17,Changi,5.4
+29-Sep-17,Changi,5.4
+30-Sep-17,Changi,6.5
+1-Dec-17,Changi,7.6
+2-Dec-17,Changi,8.6
+3-Dec-17,Changi,6.1
+4-Dec-17,Changi,5.4
+5-Dec-17,Changi,7.2
+6-Dec-17,Changi,6.8
+7-Dec-17,Changi,6.5
+8-Dec-17,Changi,7.2
+9-Dec-17,Changi,6.8
+10-Dec-17,Changi,9.4
+11-Dec-17,Changi,8.6
+12-Dec-17,Changi,5.8
+13-Dec-17,Changi,5.8
+14-Dec-17,Changi,6.5
+15-Dec-17,Changi,7.2
+16-Dec-17,Changi,9.4
+17-Dec-17,Changi,10.8
+18-Dec-17,Changi,14.8
+19-Dec-17,Changi,11.5
+20-Dec-17,Changi,11.2
+21-Dec-17,Changi,9.4
+22-Dec-17,Changi,7.2
+23-Dec-17,Changi,6.8
+24-Dec-17,Changi,7.9
+25-Dec-17,Changi,6.8
+26-Dec-17,Changi,6.5
+27-Dec-17,Changi,7.6
+28-Dec-17,Changi,9
+29-Dec-17,Changi,11.2
+30-Dec-17,Changi,11.9
+31-Dec-17,Changi,7.2
+1-Mar-18,Changi,10.1
+2-Mar-18,Changi,7.9
+3-Mar-18,Changi,11.2
+4-Mar-18,Changi,9
+5-Mar-18,Changi,12.2
+6-Mar-18,Changi,9.4
+7-Mar-18,Changi,6.8
+8-Mar-18,Changi,8.3
+9-Mar-18,Changi,12.2
+10-Mar-18,Changi,15.8
+11-Mar-18,Changi,13.7
+12-Mar-18,Changi,11.2
+13-Mar-18,Changi,11.2
+14-Mar-18,Changi,10.8
+15-Mar-18,Changi,9.7
+16-Mar-18,Changi,11.5
+17-Mar-18,Changi,11.2
+18-Mar-18,Changi,13.3
+19-Mar-18,Changi,11.2
+20-Mar-18,Changi,10.4
+21-Mar-18,Changi,7.2
+22-Mar-18,Changi,13.7
+23-Mar-18,Changi,12.6
+24-Mar-18,Changi,11.2
+25-Mar-18,Changi,5.8
+26-Mar-18,Changi,10.1
+27-Mar-18,Changi,7.2
+28-Mar-18,Changi,5.8
+29-Mar-18,Changi,6.1
+30-Mar-18,Changi,5.4
+31-Mar-18,Changi,7.2
+1-Jun-18,Changi,4.3
+2-Jun-18,Changi,4.7
+3-Jun-18,Changi,7.2
+4-Jun-18,Changi,7.9
+5-Jun-18,Changi,9
+6-Jun-18,Changi,12.6
+7-Jun-18,Changi,11.5
+8-Jun-18,Changi,7.9
+9-Jun-18,Changi,5.8
+10-Jun-18,Changi,12.2
+11-Jun-18,Changi,13.7
+12-Jun-18,Changi,9.4
+13-Jun-18,Changi,8.3
+14-Jun-18,Changi,6.5
+15-Jun-18,Changi,5.4
+16-Jun-18,Changi,10.1
+17-Jun-18,Changi,11.9
+18-Jun-18,Changi,8.3
+19-Jun-18,Changi,11.5
+20-Jun-18,Changi,6.5
+21-Jun-18,Changi,6.8
+22-Jun-18,Changi,9.7
+23-Jun-18,Changi,7.2
+24-Jun-18,Changi,7.9
+25-Jun-18,Changi,5.8
+26-Jun-18,Changi,5
+27-Jun-18,Changi,5
+28-Jun-18,Changi,6.8
+29-Jun-18,Changi,5.4
+30-Jun-18,Changi,9.4
+1-Sep-17,Jurong Island,14.8
+2-Sep-17,Jurong Island,15.5
+3-Sep-17,Jurong Island,18.7
+4-Sep-17,Jurong Island,9.4
+5-Sep-17,Jurong Island,11.9
+6-Sep-17,Jurong Island,8.3
+7-Sep-17,Jurong Island,10.4
+8-Sep-17,Jurong Island,11.5
+9-Sep-17,Jurong Island,7.6
+10-Sep-17,Jurong Island,6.5
+11-Sep-17,Jurong Island,5.4
+12-Sep-17,Jurong Island,8.6
+13-Sep-17,Jurong Island,11.2
+14-Sep-17,Jurong Island,10.1
+15-Sep-17,Jurong Island,6.1
+16-Sep-17,Jurong Island,6.5
+17-Sep-17,Jurong Island,14.4
+18-Sep-17,Jurong Island,9.7
+19-Sep-17,Jurong Island,5.8
+20-Sep-17,Jurong Island,9.4
+21-Sep-17,Jurong Island,8.3
+22-Sep-17,Jurong Island,9.7
+23-Sep-17,Jurong Island,12.6
+24-Sep-17,Jurong Island,9
+25-Sep-17,Jurong Island,11.2
+26-Sep-17,Jurong Island,7.6
+27-Sep-17,Jurong Island,5.8
+28-Sep-17,Jurong Island,5.4
+29-Sep-17,Jurong Island,6.5
+30-Sep-17,Jurong Island,7.2
+1-Dec-17,Jurong Island,6.5
+2-Dec-17,Jurong Island,5.8
+3-Dec-17,Jurong Island,5
+4-Dec-17,Jurong Island,5
+5-Dec-17,Jurong Island,6.8
+6-Dec-17,Jurong Island,7.6
+7-Dec-17,Jurong Island,5.8
+8-Dec-17,Jurong Island,8.6
+9-Dec-17,Jurong Island,5.8
+10-Dec-17,Jurong Island,6.5
+11-Dec-17,Jurong Island,6.1
+12-Dec-17,Jurong Island,4.3
+13-Dec-17,Jurong Island,6.8
+14-Dec-17,Jurong Island,5.8
+15-Dec-17,Jurong Island,6.5
+16-Dec-17,Jurong Island,5.8
+17-Dec-17,Jurong Island,7.9
+18-Dec-17,Jurong Island,7.6
+19-Dec-17,Jurong Island,6.8
+20-Dec-17,Jurong Island,7.2
+21-Dec-17,Jurong Island,9.4
+22-Dec-17,Jurong Island,9.4
+23-Dec-17,Jurong Island,7.6
+24-Dec-17,Jurong Island,8.3
+25-Dec-17,Jurong Island,6.8
+26-Dec-17,Jurong Island,6.5
+27-Dec-17,Jurong Island,6.1
+28-Dec-17,Jurong Island,5.4
+29-Dec-17,Jurong Island,5.8
+30-Dec-17,Jurong Island,5.8
+31-Dec-17,Jurong Island,5
+1-Mar-18,Jurong Island,5.8
+2-Mar-18,Jurong Island,6.5
+3-Mar-18,Jurong Island,6.5
+4-Mar-18,Jurong Island,6.1
+5-Mar-18,Jurong Island,6.8
+6-Mar-18,Jurong Island,6.8
+7-Mar-18,Jurong Island,6.8
+8-Mar-18,Jurong Island,5.8
+9-Mar-18,Jurong Island,7.2
+10-Mar-18,Jurong Island,7.6
+11-Mar-18,Jurong Island,6.8
+12-Mar-18,Jurong Island,5.4
+13-Mar-18,Jurong Island,5.4
+14-Mar-18,Jurong Island,6.8
+15-Mar-18,Jurong Island,7.6
+16-Mar-18,Jurong Island,9
+17-Mar-18,Jurong Island,8.3
+18-Mar-18,Jurong Island,7.6
+19-Mar-18,Jurong Island,8.6
+20-Mar-18,Jurong Island,8.3
+21-Mar-18,Jurong Island,6.1
+22-Mar-18,Jurong Island,7.9
+23-Mar-18,Jurong Island,9.7
+24-Mar-18,Jurong Island,6.1
+25-Mar-18,Jurong Island,4.7
+26-Mar-18,Jurong Island,5.4
+27-Mar-18,Jurong Island,7.9
+28-Mar-18,Jurong Island,5.4
+29-Mar-18,Jurong Island,6.8
+30-Mar-18,Jurong Island,5.8
+31-Mar-18,Jurong Island,6.5
+1-Jun-18,Jurong Island,5
+2-Jun-18,Jurong Island,5.4
+3-Jun-18,Jurong Island,6.5
+4-Jun-18,Jurong Island,9
+5-Jun-18,Jurong Island,11.2
+6-Jun-18,Jurong Island,12.6
+7-Jun-18,Jurong Island,11.2
+8-Jun-18,Jurong Island,7.9
+9-Jun-18,Jurong Island,7.6
+10-Jun-18,Jurong Island,10.8
+11-Jun-18,Jurong Island,11.5
+12-Jun-18,Jurong Island,10.8
+13-Jun-18,Jurong Island,10.1
+14-Jun-18,Jurong Island,8.3
+15-Jun-18,Jurong Island,7.9
+16-Jun-18,Jurong Island,10.1
+17-Jun-18,Jurong Island,10.1
+18-Jun-18,Jurong Island,7.9
+19-Jun-18,Jurong Island,10.8
+20-Jun-18,Jurong Island,7.6
+21-Jun-18,Jurong Island,7.6
+22-Jun-18,Jurong Island,8.6
+23-Jun-18,Jurong Island,7.9
+24-Jun-18,Jurong Island,7.6
+25-Jun-18,Jurong Island,8.3
+26-Jun-18,Jurong Island,7.2
+27-Jun-18,Jurong Island,7.9
+28-Jun-18,Jurong Island,9
+29-Jun-18,Jurong Island,8.3
+30-Jun-18,Jurong Island,10.8
+1-Sep-17,Sentosa Island,7.9
+2-Sep-17,Sentosa Island,8.6
+3-Sep-17,Sentosa Island,10.1
+4-Sep-17,Sentosa Island,5.4
+5-Sep-17,Sentosa Island,6.5
+6-Sep-17,Sentosa Island,5
+7-Sep-17,Sentosa Island,5.4
+8-Sep-17,Sentosa Island,6.5
+9-Sep-17,Sentosa Island,4
+10-Sep-17,Sentosa Island,4.3
+11-Sep-17,Sentosa Island,4.3
+12-Sep-17,Sentosa Island,4.3
+13-Sep-17,Sentosa Island,7.2
+14-Sep-17,Sentosa Island,5
+15-Sep-17,Sentosa Island,4.7
+16-Sep-17,Sentosa Island,5.8
+17-Sep-17,Sentosa Island,7.6
+18-Sep-17,Sentosa Island,4.3
+19-Sep-17,Sentosa Island,4
+20-Sep-17,Sentosa Island,6.5
+21-Sep-17,Sentosa Island,5.4
+22-Sep-17,Sentosa Island,5.8
+23-Sep-17,Sentosa Island,6.8
+24-Sep-17,Sentosa Island,5.8
+25-Sep-17,Sentosa Island,5.8
+26-Sep-17,Sentosa Island,4.3
+27-Sep-17,Sentosa Island,4.7
+28-Sep-17,Sentosa Island,4.7
+29-Sep-17,Sentosa Island,5
+30-Sep-17,Sentosa Island,5.8
+1-Dec-17,Sentosa Island,5.4
+2-Dec-17,Sentosa Island,4.7
+3-Dec-17,Sentosa Island,5
+4-Dec-17,Sentosa Island,3.6
+5-Dec-17,Sentosa Island,5.4
+6-Dec-17,Sentosa Island,5.4
+7-Dec-17,Sentosa Island,4.7
+8-Dec-17,Sentosa Island,6.8
+9-Dec-17,Sentosa Island,5
+10-Dec-17,Sentosa Island,5
+11-Dec-17,Sentosa Island,5
+12-Dec-17,Sentosa Island,3.6
+13-Dec-17,Sentosa Island,4.3
+14-Dec-17,Sentosa Island,4.7
+15-Dec-17,Sentosa Island,4.7
+16-Dec-17,Sentosa Island,4.7
+17-Dec-17,Sentosa Island,6.8
+18-Dec-17,Sentosa Island,6.5
+19-Dec-17,Sentosa Island,6.1
+20-Dec-17,Sentosa Island,6.5
+21-Dec-17,Sentosa Island,6.8
+22-Dec-17,Sentosa Island,6.8
+23-Dec-17,Sentosa Island,6.8
+24-Dec-17,Sentosa Island,6.8
+25-Dec-17,Sentosa Island,4.7
+26-Dec-17,Sentosa Island,4.7
+27-Dec-17,Sentosa Island,4.3
+28-Dec-17,Sentosa Island,5
+29-Dec-17,Sentosa Island,5.8
+30-Dec-17,Sentosa Island,5.4
+31-Dec-17,Sentosa Island,
+1-Mar-18,Sentosa Island,5
+2-Mar-18,Sentosa Island,5.4
+3-Mar-18,Sentosa Island,6.5
+4-Mar-18,Sentosa Island,4.3
+5-Mar-18,Sentosa Island,6.1
+6-Mar-18,Sentosa Island,5.8
+7-Mar-18,Sentosa Island,5
+8-Mar-18,Sentosa Island,4.7
+9-Mar-18,Sentosa Island,5.8
+10-Mar-18,Sentosa Island,6.5
+11-Mar-18,Sentosa Island,6.1
+12-Mar-18,Sentosa Island,5.4
+13-Mar-18,Sentosa Island,4.7
+14-Mar-18,Sentosa Island,6.5
+15-Mar-18,Sentosa Island,6.1
+16-Mar-18,Sentosa Island,6.5
+17-Mar-18,Sentosa Island,7.6
+18-Mar-18,Sentosa Island,6.5
+19-Mar-18,Sentosa Island,7.9
+20-Mar-18,Sentosa Island,6.8
+21-Mar-18,Sentosa Island,5
+22-Mar-18,Sentosa Island,6.5
+23-Mar-18,Sentosa Island,6.8
+24-Mar-18,Sentosa Island,5.4
+25-Mar-18,Sentosa Island,4.3
+26-Mar-18,Sentosa Island,4.3
+27-Mar-18,Sentosa Island,5.8
+28-Mar-18,Sentosa Island,4.3
+29-Mar-18,Sentosa Island,5.4
+30-Mar-18,Sentosa Island,4.7
+31-Mar-18,Sentosa Island,5
+1-Jun-18,Sentosa Island,4.3
+2-Jun-18,Sentosa Island,4.3
+3-Jun-18,Sentosa Island,
+4-Jun-18,Sentosa Island,
+5-Jun-18,Sentosa Island,6.5
+6-Jun-18,Sentosa Island,6.8
+7-Jun-18,Sentosa Island,6.8
+8-Jun-18,Sentosa Island,5.8
+9-Jun-18,Sentosa Island,4.7
+10-Jun-18,Sentosa Island,7.2
+11-Jun-18,Sentosa Island,7.6
+12-Jun-18,Sentosa Island,5.4
+13-Jun-18,Sentosa Island,5
+14-Jun-18,Sentosa Island,4.3
+15-Jun-18,Sentosa Island,4.7
+16-Jun-18,Sentosa Island,6.1
+17-Jun-18,Sentosa Island,6.1
+18-Jun-18,Sentosa Island,5.8
+19-Jun-18,Sentosa Island,7.6
+20-Jun-18,Sentosa Island,4.3
+21-Jun-18,Sentosa Island,5.4
+22-Jun-18,Sentosa Island,6.1
+23-Jun-18,Sentosa Island,5.4
+24-Jun-18,Sentosa Island,6.8
+25-Jun-18,Sentosa Island,6.1
+26-Jun-18,Sentosa Island,4.7
+27-Jun-18,Sentosa Island,5.8
+28-Jun-18,Sentosa Island,6.5
+29-Jun-18,Sentosa Island,5
+30-Jun-18,Sentosa Island,6.8
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
